@@ -1,3 +1,6 @@
 /target
 *.wasm
 *.mrb
+*.rb
+src/lib.rs
+Cargo.lock
